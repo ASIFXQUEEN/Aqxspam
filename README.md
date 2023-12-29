@@ -5,7 +5,7 @@
 <p align="center"><a href="https://t.me/PyXen"><img src="https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAIFmmWC60q-Ny8mfifiU25wQP_bRJx7AAIQvjEb7IMZVAABp8jv_Jx82wEAAwIAA3kAAzME" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using this op XBOTS. That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using this op Xqueen Server Bots. That is the greatest pleasure we have !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ

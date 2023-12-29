@@ -59,10 +59,11 @@ async def spam(event: events):
                     await event.client.send_message(event.chat_id, message)
                     await asyncio.sleep(0.2)
             else:
-                await event.reply(f"😈 **Usage:**\n  » {hl}spam 13 Altron\n  » {hl}spam 13 <ʀᴇᴘʟʏ ᴛᴏ ᴛᴇxᴛ>\n\n**To do spam with replying to a user:**\n  » {hl}spam 13 Altron <ʀᴇᴘʟʏ ᴛᴏ ᴜꜱᴇʀ>")
+                await event.reply(f"🤨 **Usage:**\n  » {hl}ᴍᴀᴅʀᴄʜᴏᴅ ᴜꜱᴇ ᴋᴀʀɴᴀ ɴᴀʜɪ ᴊᴀɴᴛᴀ\n  » {hl}ᴍᴀᴅʀᴄʜᴏᴅ ᴜꜱᴇ ᴋᴀʀɴᴀ ɴᴀʜɪ ᴊᴀɴᴛᴀ  <ʀᴇᴘʟʏ ᴛᴏ ᴛᴇxᴛ>\n\n**To do spam with replying to a user:**\n  » {hl}spam 13 Altron <ʀᴇᴘʟʏ ᴛᴏ ᴜꜱᴇʀ>")
 
         except (IndexError, ValueError):
-            await event.reply(f"😈 **Usage:**\n  » {hl}spam 13 Altron\n  » {hl}spam 13 <ʀᴇᴘʟʏ ᴛᴏ ᴛᴇxᴛ>\n\n**To do spam with replying to a user:**\n  » {hl}spam 13 Altron <ʀᴇᴘʟʏ ᴛᴏ ᴜꜱᴇʀ>")
+            await event.reply(f"🤨 **Usage:**\n  » {hl}ᴍᴀᴅʀᴄʜᴏᴅ ᴜꜱᴇ ᴋᴀʀɴᴀ ɴᴀʜɪ ᴊᴀɴᴛᴀ\n  » {hl}ᴍᴀᴅʀᴄʜᴏᴅ ᴜꜱᴇ ᴋᴀʀɴᴀ ɴᴀʜɪ ᴊᴀɴᴛᴀ  <ʀᴇᴘʟʏ ᴛᴏ ᴛᴇxᴛ>\n\n**To do spam with replying to a user:**\n  » {hl}spam 13 Altron <ʀᴇᴘʟʏ ᴛᴏ ᴜꜱᴇʀ>")
+
         except Exception as e:
             print(e)
 

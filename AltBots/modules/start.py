@@ -12,6 +12,10 @@ START_BUTTON = [
         Button.url("• ᴏᴡɴᴇʀ •", "https://t.me/ashif903")
     ],
     [
+        Button.url("• ꜱᴜᴅᴏ1 •", "https://t.me/Itz_me_tm7")
+        Button.url("• ꜱᴜᴅᴏ2 •", "https://t.me/X_DEAD_OP")
+    ],    
+    [
         Button.url("• ʀᴇᴘᴏ •", "https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAIFmmWC60q-Ny8mfifiU25wQP_bRJx7AAIQvjEb7IMZVAABp8jv_Jx82wEAAwIAA3kAAzME")
     ]
 ]

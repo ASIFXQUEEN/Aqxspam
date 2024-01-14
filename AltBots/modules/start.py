@@ -13,9 +13,15 @@ START_BUTTON = [
     ],
     [
         Button.url("• ꜱᴜᴅᴏ2 •", "https://t.me/X_DEAD_OP")
-    ],    
+    ],
     [
-        Button.url("• ʀᴇᴘᴏ •", "https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAIFmmWC60q-Ny8mfifiU25wQP_bRJx7AAIQvjEb7IMZVAABp8jv_Jx82wEAAwIAA3kAAzME")
+        Button.url("• ꜱᴜᴅᴏ ᴋɪɴɢ •", "https://t.me/Raaja_033")
+    ],
+    [
+        Button.url("• ᴀʙᴏᴜᴛ  •", "https://t.me/ARAME9")
+    ],
+    [
+        Button.url("• ʀᴇᴘᴏ •", " https://telegra.ph/file/d275fd41b6a34ac250643.jpg")
     ]
 ]
 
@@ -43,7 +49,7 @@ async def start(event):
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n━━━━━━━━━━━━━━━━━"
         await event.client.send_file(
                     event.chat_id,
-                    "https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAIFmmWC60q-Ny8mfifiU25wQP_bRJx7AAIQvjEb7IMZVAABp8jv_Jx82wEAAwIAA3kAAzME",
+                    " https://telegra.ph/file/d275fd41b6a34ac250643.jpg",
                     caption=TEXT, 
                     buttons=START_BUTTON
                 )

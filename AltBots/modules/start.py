@@ -46,7 +46,7 @@ async def start(event):
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{__version__}`\n━━━━━━━━━━━━━━━━━"
         await event.client.send_file(
                     event.chat_id,
-                    " https://telegra.ph/file/d275fd41b6a34ac250643.jpg",
+                    "https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAIMHWWksHoMcjZmNX1ufPukwK3m7h4oAAKEujEbTdAoVTalLqDKCAs8AQADAgADeAADNAQ",
                     caption=TEXT, 
                     buttons=START_BUTTON
                 )

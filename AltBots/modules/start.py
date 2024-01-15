@@ -19,9 +19,6 @@ START_BUTTON = [
     ],
     [
         Button.url("• ᴀʙᴏᴜᴛ  •", "https://t.me/ARAME9")
-    ],
-    [
-        Button.url("• ʀᴇᴘᴏ •", " https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAIMHWWksHoMcjZmNX1ufPukwK3m7h4oAAKEujEbTdAoVTalLqDKCAs8AQADAgADeAADNAQ")
     ]
 ]
 

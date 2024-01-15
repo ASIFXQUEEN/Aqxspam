@@ -21,7 +21,7 @@ START_BUTTON = [
         Button.url("• ᴀʙᴏᴜᴛ  •", "https://t.me/ARAME9")
     ],
     [
-        Button.url("• ʀᴇᴘᴏ •", " https://telegra.ph/file/d275fd41b6a34ac250643.jpg")
+        Button.url("• ʀᴇᴘᴏ •", " https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAIMHWWksHoMcjZmNX1ufPukwK3m7h4oAAKEujEbTdAoVTalLqDKCAs8AQADAgADeAADNAQ")
     ]
 ]
 
